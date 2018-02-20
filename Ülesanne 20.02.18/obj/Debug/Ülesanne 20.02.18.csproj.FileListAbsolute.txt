@@ -1,0 +1,7 @@
+D:\programs\Visual Studio 2017\Ülesanne 20.02.18\Ülesanne 20.02.18\bin\Debug\Ülesanne 20.02.18.exe.config
+D:\programs\Visual Studio 2017\Ülesanne 20.02.18\Ülesanne 20.02.18\bin\Debug\Ülesanne 20.02.18.exe
+D:\programs\Visual Studio 2017\Ülesanne 20.02.18\Ülesanne 20.02.18\bin\Debug\Ülesanne 20.02.18.pdb
+D:\programs\Visual Studio 2017\Ülesanne 20.02.18\Ülesanne 20.02.18\obj\Debug\Ülesanne 20.02.18.csprojResolveAssemblyReference.cache
+D:\programs\Visual Studio 2017\Ülesanne 20.02.18\Ülesanne 20.02.18\obj\Debug\Ülesanne 20.02.18.csproj.CoreCompileInputs.cache
+D:\programs\Visual Studio 2017\Ülesanne 20.02.18\Ülesanne 20.02.18\obj\Debug\Ülesanne 20.02.18.exe
+D:\programs\Visual Studio 2017\Ülesanne 20.02.18\Ülesanne 20.02.18\obj\Debug\Ülesanne 20.02.18.pdb
